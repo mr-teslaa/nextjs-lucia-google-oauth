@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://lucia-auth.com/" target="_blank"><img src="https://lucia-auth.com/static/og-image.png" width="400" alt="Lucia Logo" /></a>
+    <a href="https://lucia-auth.com/" target="_blank">Lucia Auth</a>
   </p>
   <br />
   <p>
