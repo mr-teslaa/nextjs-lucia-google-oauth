@@ -10,11 +10,7 @@
   <h1 align="center">Lucia Google OAuth</h1>
 
   <p align="center">
-    A full-stack application demonstrating Google OAuth integration with Lucia for authentication.
-    <br />
-    <a href="https://github.com/hossainfoysal/lucia-google-oauth-example/issues/new?template=bug_report.md">Report Bug</a>
-    ·
-    <a href="https://github.com/hossainfoysal/lucia-google-oauth-example/issues/new?template=feature_request.md">Request Feature</a>
+    A full-stack application demonstrating Google OAuth integration with Lucia for authentication. Inspired by https://github.com/Elliott-Chong/lucia-auth-yt repo
   </p>
 </div>
 
@@ -123,7 +119,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **Hossain Foysal**, the creator of this project. I'm a Full-Stack AI Engineer, App Developer, and Cybersecurity Researcher with a passion for building innovative and secure applications. With over 7 years of experience and more than 113 projects under my belt, I'm always looking for new challenges and opportunities to learn.
+Hey there! I'm **Hossain Foysal**. I'm a Full-Stack AI Engineer, App Developer, and Cybersecurity Researcher with a passion for building innovative and secure applications. With over 7 years of experience and more than 113 projects under my belt, I'm always looking for new challenges and opportunities to learn.
 
 I'm proficient in a wide range of technologies, including Next.js, React, Django, Flutter, and more. I'm also deeply interested in cybersecurity and enjoy the challenge of making applications as secure as possible.
 
